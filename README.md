@@ -1,4 +1,10 @@
 # task-managements-service
+So the flow becomes:
+1. Clone repo
+2. `go mod tidy`
+3. Setup `env.yaml`
+4. Run service
+
 📌 Task Management Service (Backend)
 
 A role-based Task Management Backend built with Go (Gin + GORM).
